@@ -1,3 +1,10 @@
+PL
+Aplikacja napisana przy użyciu metody fetch. Do czasu pobierania lokalnych danych wyśwetla się komunikat "Pobieram dane", po zakończeniu procesu dane są wyświetlane w postaci listy.
+
+ENG
+An application written using the fetch method. Until the local data is downloaded, the message "Downloading data" is displayed, after the process is completed, the data is displayed in the form of a list.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
